@@ -16,11 +16,6 @@
 	background-size: cover;
 }
 
-.col-md-9 {
-	/*border: 1px solid lightgray;*/
-	min-height: 190px;
-}
-
 a {
 	color: black;
 }
@@ -137,10 +132,10 @@ img {vertical-align: middle; }
 }
 
 /* Kapeampia näyttöjä varten muutoksia */
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 1200px) {
 	.text {font-size: 11px}
 	.container {
-		width: 800px;
+		width: 700px;
 	}
 	.slideshow-container {
 		max-width: 700px;
