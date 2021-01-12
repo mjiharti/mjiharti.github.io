@@ -5,7 +5,7 @@
 
 .col {
 	/*border: 1px solid white;*/
-	min-height: 400px;
+	min-height: 270px;
 }
 
 .cornerimage {
@@ -190,8 +190,8 @@ fieldset {
 div.gallery {
 	margin: 5px;
 	border: 1px solid dimgray;
-	  float: left;
-	width: 180px;
+	float: left;
+	width: 180px;	
 }
 
 div.gallery:hover {
@@ -205,6 +205,7 @@ div.gallery img {
 
 div.desc {
 	padding: 15px;
+	font: 12px verdana;
 	text-align: center;
 }
 
