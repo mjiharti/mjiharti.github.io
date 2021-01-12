@@ -4,8 +4,7 @@
 }
 
 .col {
-	/*border: 1px solid white;*/
-	min-height: 270px;
+	min-height: 250px;
 }
 
 .cornerimage {
@@ -191,7 +190,7 @@ div.gallery {
 	margin: 5px;
 	border: 1px solid dimgray;
 	float: left;
-	width: 180px;	
+	width: 180px;		
 }
 
 div.gallery:hover {
@@ -199,8 +198,9 @@ div.gallery:hover {
 }
 
 div.gallery img {
-	width: 100%;
-	height: auto;
+	width: 180px;
+	height: 180px;
+	object-fit: cover;
 }
 
 div.desc {
@@ -210,14 +210,15 @@ div.desc {
 }
 
 /* Kapeampia näyttöjä varten muutoksia */
+/*
 @media only screen and (max-width: 1200px) {
 	.text {font-size: 11px}
-	/*.container {
+	.container {
 		width: 900px;
-	}*/
+	}
 	.slideshow-container {
 		max-width: 700px;
 		position: relative;
 		margin: auto;
 	}
-}
+}*/
