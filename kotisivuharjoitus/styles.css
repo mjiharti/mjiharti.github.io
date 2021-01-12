@@ -183,6 +183,10 @@ fieldset {
 	font: 12px verdana;
 }
 
+.contact {
+	padding: 20px;
+}
+
 /* Kapeampia näyttöjä varten muutoksia */
 @media only screen and (max-width: 1200px) {
 	.text {font-size: 11px}
