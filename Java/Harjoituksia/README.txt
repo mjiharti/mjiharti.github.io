@@ -1,0 +1,1 @@
+Java exercises implemented for a Java course of the Metropolia University of Applied Sciences.

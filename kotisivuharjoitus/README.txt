@@ -1,0 +1,1 @@
+Simple home page exercise for a web development course of the Laurea University of Applied Sciences.

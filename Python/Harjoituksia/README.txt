@@ -1,0 +1,1 @@
+Python exercises implemented for a Python course of the Metropolia University of Applied Sciences.
