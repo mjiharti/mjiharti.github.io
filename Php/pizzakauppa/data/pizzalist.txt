@@ -1,0 +1,5 @@
+1,Opera,10,Tonnikala,Kinkku
+2,Special Opera,12,Tonnikala,Kinkku,Salami
+3,Americana,11,Kinkku,Ananas,Aurajuusto
+4,Margherita,9,Extra-juusto
+5,Mexicana,12,Pepperoni,Ananas,Jalapeno
